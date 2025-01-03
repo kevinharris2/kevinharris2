@@ -4,12 +4,12 @@
 
 - [Active Directory Home Lab]()
 
-<h2>📺 Certificates</h2>
+<h2>📄 Certificates</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FHPI4GEWKKBZ)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 📱 Connect with me:</h2>
 
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
