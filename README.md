@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin Harris! 
 
-<h2>👨‍💻 Active Directory Projects:</h2>
+<h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/kevinharris2/ActiveDirectoryLab/blob/main/README.md)
 
