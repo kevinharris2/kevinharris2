@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kevin Harris! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Active Directory Projects:</h2>
 
 - [Active Directory Home Lab]()
 
