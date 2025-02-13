@@ -8,7 +8,7 @@
 <h2>📄 Certificates</h2>
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FHPI4GEWKKBZ)
-
+- [CompTIA Secuirty+]() In progress..
 
 <h2> 📱 Connect with me:</h2>
 
@@ -20,10 +20,7 @@
 [twitter]: https://x.com/kevin_harris2
 [linkedin]: https://www.linkedin.com/in/kevin-harris2/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
