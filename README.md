@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/kevinharris2/ActiveDirectoryLab/blob/main/README.md)
-- [ Defense in Depth HomeLab]()
+- [ Defense in Depth HomeLab](https://github.com/kevinharris2/Internal-network-Lab/blob/main/README.md)
 
 <h2>📄 Certificates</h2>
 
