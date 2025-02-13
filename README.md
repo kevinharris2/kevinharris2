@@ -7,8 +7,9 @@
 
 <h2>📄 Certificates</h2>
 
-- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FHPI4GEWKKBZ)
-- [CompTIA Secuirty+]() In progress..
+- [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FHPI4GEWKKBZ).
+- [Lean Six Sigma Yellow Belt](https://www.linkedin.com/in/kevin-harris2/details/certifications/1735822984240/single-media-viewer/?profileId=ACoAADnRixkB284F0qVZKi8tIekOhY7Bg_gYmRk)
+- [CompTIA Security+]() In Progress ..
 
 <h2> 📱 Connect with me:</h2>
 
