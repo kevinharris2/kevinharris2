@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin Harris! 
+<h1>Hi, I'm Kevin Harris!                                                        
 
 <h2>👨‍💻 IT Projects:</h2>
 
@@ -23,3 +23,5 @@
 
 
 
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/BlueGadgeteer8684.png" alt="Your Image Badge" />
