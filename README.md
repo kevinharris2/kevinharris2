@@ -21,7 +21,3 @@
 [twitter]: https://x.com/kevin_harris2
 [linkedin]: https://www.linkedin.com/in/kevin-harris2/
 
-
-
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/BlueGadgeteer8684.png" alt="Your Image Badge" />
