@@ -9,7 +9,7 @@
 
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FHPI4GEWKKBZ).
 - [Lean Six Sigma Yellow Belt](https://www.linkedin.com/in/kevin-harris2/details/certifications/1735822984240/single-media-viewer/?profileId=ACoAADnRixkB284F0qVZKi8tIekOhY7Bg_gYmRk)
-- [CompTIA Security+]() In Progress ..
+- [CompTIA Security+](https://www.credly.com/badges/abd0f109-30d4-4231-af5d-26f79484f46e/linked_in_profile) 
 
 <h2> 📱 Connect with me:</h2>
 
